@@ -1,7 +1,7 @@
- #HTTP Client application
+ # HTTP Client application
  HTTP client application submit name, email address and the public URL of the repository
  
- #Sample payload:
+ # Sample payload:
 
 {
   "name": "Joseph Peter",
